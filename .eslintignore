@@ -1,0 +1,9 @@
+docs/
+node_modules/
+demo/
+dist/
+.nuxt/
+.nyc_output/
+static/
+types/
+plugins/authcode.min.js
